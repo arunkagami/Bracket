@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Custom styles */
+.pixel-font {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.bg-grid {
+  background-image: radial-gradient(#1f2937 1px, transparent 1px);
+  background-size: 30px 30px;
+}
