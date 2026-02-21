@@ -1,0 +1,12 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="5.62634" width="2.98901" height="20.7473" fill="#D9D9D9"/>
+<rect x="29.011" y="5.62634" width="2.98901" height="20.7473" fill="#EAEAEA"/>
+<rect x="5.62646" y="32" width="2.98901" height="20.7473" transform="rotate(-90 5.62646 32)" fill="#EAEAEA"/>
+<rect x="5.62646" y="2.98901" width="2.98901" height="20.7473" transform="rotate(-90 5.62646 2.98901)" fill="#EAEAEA"/>
+<rect x="26.3735" y="26.3737" width="2.63736" height="2.63736" fill="#EAEAEA"/>
+<rect x="2.98901" y="26.3737" width="2.63736" height="2.63736" fill="#EAEAEA"/>
+<rect x="26.3735" y="2.98901" width="2.63736" height="2.63736" fill="#EAEAEA"/>
+<rect x="2.98901" y="2.98901" width="2.63736" height="2.63736" fill="#EAEAEA"/>
+<path d="M9.8921 12.8603V11.6044H12.3997V12.8603H9.8921ZM7.38452 20.3956V19.1397H9.8921V15.372H8.63831V14.1161H12.3997V19.1397H14.9073V20.3956H7.38452Z" fill="#EAEAEA"/>
+<path d="M16.0146 20.3956V14.1161H23.5373V15.372H24.7911V20.3956H22.2835V15.372H18.5222V20.3956H16.0146Z" fill="#EAEAEA"/>
+</svg>
