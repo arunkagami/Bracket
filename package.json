@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js",
-    "run": "npx tailwindcss -i ./public/input.css -o ./public/output.css"
+    "tailwind": "tailwindcss -i ./views/input.css -o ./public/output.css --watch",
+    "start": "nodemon server.js & npm run tailwind"
   },
   "keywords": [],
   "author": "",
@@ -20,8 +20,9 @@
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.2.0",
+    "dotenv": "^17.3.1",
     "ejs": "^4.0.1",
     "express": "^5.2.1",
-    "mongodb": "^7.1.0"
+    "mongoose": "^9.2.2"
   }
 }
